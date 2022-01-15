@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.slogan{
+    width: 100%;
+    height: 100px;
+    float: left;
+    margin-left: 100px;
+}
+.banner{
+    display: flex;
+    float: left;
+    width: 100%;
+    margin-left: 65px;
+    padding: 40px;
+}
+.banner .left{
+    width: 60%;
+}
+.banner p{
+    padding-bottom: 20px;
+}
+.banner a{
+    text-decoration: none;
+     width: 168px;
+     height: 44px;
+     background-color: #E02C6D;
+     padding: 12px;
+     padding-left: 30px;
+     padding-right: 30px;
+     color: #FFFFFF;
+     border-radius: 20px;
+}
+.banner img {
+    float: right;
+    width: 400px;
+    height: 400px;
+    margin-left: 10px;
+}
+.popular h1{
+    text-align: center;
+    padding: 30px;
+}
+.popular i{
+    color: rgb(207, 188, 14);
+}
+.popular2 i{
+    color: rgb(207, 188, 14);
+}
+.popular  .card1{
+    width: 17%;
+    height: 550px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 20px rgb(117 114 114);
+    border-radius: 7px;
+}
+.popular  .card2{
+    width: 17%;
+    height: 550px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 20px rgb(117 114 114);
+    border-radius: 7px;
+}
+.popular  .card3{
+    width: 17%;
+    height: 550px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 20px rgb(117 114 114);
+    border-radius: 7px;
+}
+.card1{
+    float: left;
+    padding: 10px;
+    margin-left: 350px;
+}
+.card2{
+    float: left;
+    margin-left: 80px;
+    padding: 10px;
+}
+.card3{
+    float: left;
+    margin-left: 80px;
+    padding: 10px;
+}
+.popular2{
+    float: left;
+    margin-top: 60px;
+    width: 100%;
+    height: 550px;
+}
+.popular2 .card4{
+    width: 17%;
+    height: 550px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 20px rgb(117 114 114);
+    border-radius: 7px;
+    margin-left: 350px;
+}
+.popular2 .card5{
+    width: 17%;
+    height: 550px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 20px rgb(117 114 114);
+    border-radius: 7px;
+    margin-left: 80px;
+}
+.popular2 .card6{
+    width: 17%;
+    height: 550px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 20px rgb(117 114 114);
+    border-radius: 7px;
+    margin-left: 80px;
+}
+.card4{
+    float: left;
+    padding: 10px;
+    margin-left: 350px;
+}
+.card5{
+    float: left;
+    margin-left: 80px;
+    padding: 10px;
+}
+.card6{
+    float: left;
+    margin-left: 80px;
+    padding: 10px;
+}
+.client{
+    width: 100%;
+    height: 300px;
+    float: left;
+    text-align: center;
+}
+.client a{
+    text-decoration: none;
+     width: 168px;
+     height: 44px;
+     background-color: #E02C6D;
+     padding: 12px;
+     padding-left: 30px;
+     padding-right: 30px;
+     color: #FFFFFF;
+     border-radius: 20px;
+}
+.client h2{
+    padding: 30px;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    float: left;
+    text-align: center;
+    background-color: rgb(15, 8, 44);
+    color: white;
+}
+.footer i{
+    margin-left: 15px;
+}
+
+@media only screen and (max-width:688px) {
+    
+}
